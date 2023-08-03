@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **how to automate everything with python!**
 
-- 💬 Ask me about **Owl house or anything else!**
+- 💬 Lets talk about **Owl house or anything else!**
 
-- 📫 How to reach me **felipe9a.cva@gmail.com**
+- 📫 Email contact **felipe9a.cva@gmail.com**
 
-- ⚡ Fun fact **I love cartoons and animes. 🦉**
+- ⚡ FACT **I love cartoons and animes. 🦉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
