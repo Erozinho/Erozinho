@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=erozinho&show_icons=true&locale=en" alt="erozinho" /></p>
 
-<p><img height="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=erozinho&" alt="erozinho" /></p>
+<p><img height="180em" align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=erozinho&" alt="erozinho" /></p>
