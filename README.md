@@ -1,5 +1,3 @@
-
-
 # 💫 About Me:
 🔭 Working on UOL GROUP<br><br>🌱 I’m currently learning how to automate everything with python!<br><br>💬 Lets talk about Owl house or anything else!<br><br>📫 Email: felipe9a.cva@gmail.com<br><br>⚡ FACT I love cartoons and animes. 🦉
 
