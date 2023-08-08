@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Erozinho&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ My Dev Quote
-![](<p>I LOVE AMITY</p>)
+<p style="color:red;">I LOVE AMITY</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Erozinho&icon=9&color=11)](https://visitcount.itsvg.in)
