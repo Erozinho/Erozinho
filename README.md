@@ -1,10 +1,4 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
 
 # 💫 About Me:
 🔭 Working on UOL GROUP<br><br>🌱 I’m currently learning how to automate everything with python!<br><br>💬 Lets talk about Owl house or anything else!<br><br>📫 Email: felipe9a.cva@gmail.com<br><br>⚡ FACT I love cartoons and animes. 🦉
@@ -24,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Erozinho&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ My Dev Quote
-@@<p>I LOVE AMITY</p>@@
+<h1>I LOVE AMITY</h1>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Erozinho&icon=9&color=11)](https://visitcount.itsvg.in)
